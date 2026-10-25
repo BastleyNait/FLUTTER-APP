@@ -105,7 +105,7 @@ List<Curso> _cursosIniciales() => [
     id: 'pe',
     nombre: 'Plataformas Emergentes',
     docente: 'R. Fabrizio Calienes R.',
-    color: Colors.indigo,
+    color: Colors.blue,
     evaluaciones: [
       Evaluacion(nombre: 'Laboratorios', peso: 30, nota: 17),
       Evaluacion(nombre: 'Examen parcial', peso: 30, nota: 15),
@@ -138,7 +138,7 @@ List<Curso> _cursosIniciales() => [
     id: 'sd',
     nombre: 'Sistemas Distribuidos',
     docente: 'Docente del curso',
-    color: Colors.purple,
+    color: Colors.blueGrey,
     evaluaciones: [
       Evaluacion(nombre: 'Laboratorios', peso: 30, nota: 12),
       Evaluacion(nombre: 'Examen parcial', peso: 30),

@@ -178,7 +178,7 @@ class _Cabecera extends StatelessWidget {
         DecoratedBox(
           decoration: BoxDecoration(
             gradient: LinearGradient(
-              colors: [esquema.primaryContainer, esquema.tertiaryContainer],
+              colors: [esquema.primaryContainer, esquema.secondaryContainer],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
             ),

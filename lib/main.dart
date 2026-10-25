@@ -17,7 +17,7 @@ class AgendaUApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const semilla = Color(0xFF6A1B9A);
+    const semilla = Color(0xFF1565C0);
     return AppScope(
       estado: estado,
       child: MaterialApp(
